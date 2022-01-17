@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gaziero
 - 👀 I’m interested in games, plants, cats and, recently, code!
-- 🌱 I’m currently learning the very basics of coding, starting from web development
-- 💞️ I’m looking to collaborate on nothing for now, because, well, I really don't know anything yet
+- 🌱 I’m currently learning the very basics of coding, creating a few Python apps and scripts
+- 💞️ I’m not looking to collaborate on anything for now, because, well, I don't really know anything yet
 
 <!---
 Gaziero/Gaziero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
